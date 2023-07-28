@@ -1,4 +1,4 @@
-#Adicionado entidade Conta
+#Adicionado conexão ao MySQL
 
 package com.example.appwebsenai.controller;
 import com.example.appwebsenai.model.Person;
