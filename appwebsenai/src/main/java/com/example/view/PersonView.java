@@ -1,3 +1,5 @@
+#Adicionado conexão ao MySQL
+
 package com.example.appwebsenai.view;
 
 import com.example.appwebsenai.controller.Controller;
