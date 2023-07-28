@@ -1,3 +1,5 @@
+#Adicionado conexão ao MySQL
+
 package com.example.appwebsenai;
 
 import org.springframework.boot.SpringApplication;
