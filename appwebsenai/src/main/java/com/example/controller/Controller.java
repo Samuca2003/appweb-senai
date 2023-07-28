@@ -1,5 +1,6 @@
-package com.example.appwebsenai.controller;
+#Adicionado entidade Conta
 
+package com.example.appwebsenai.controller;
 import com.example.appwebsenai.model.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
